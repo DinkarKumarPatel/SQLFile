@@ -1,5 +1,7 @@
 CREATE VIEW VW_XNSREPS_NEW    
 AS    
+
+CHANGES FOR GIT
  SELECT  A.DEPT_ID,    
    'OPS' AS XN_TYPE,     
    XN_DT,     

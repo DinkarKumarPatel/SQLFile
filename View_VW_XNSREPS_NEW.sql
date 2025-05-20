@@ -1,6 +1,6 @@
 CREATE VIEW VW_XNSREPS_NEW    
 AS    
-
+--chnages for git hub
 CHANGES FOR GIT
  SELECT  A.DEPT_ID,    
    'OPS' AS XN_TYPE,     
